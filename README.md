@@ -1,6 +1,6 @@
 # 🌐 Google Search Clone
 
-## Demo: https://hangry101.github.io/A-copy-of-the-Google-search-engine/
+## Demo: https://alexopedia-1.github.io/A-copy-of-the-Google-search-engine/
 
 
 This project is an attempt to create a simple replica of a search engine similar to Google.
